@@ -1,2 +1,2 @@
 # Gemini Chat-Bot
-## Host URL: [https://gemini-chatbot-by-argha.streamlit.app/](https://gemini-chatbot-by-argha.streamlit.app/)
+## Host URL: [https://my-gemini.streamlit.app/](https://my-gemini.streamlit.app/)
