@@ -17,6 +17,15 @@ def get_gemini_response(question):
     return response
 
 
+# set the config
+st.set_page_config(
+    page_title="Gemini Chat-Bot",
+    page_icon="random",
+    layout="centered",
+    initial_sidebar_state="auto",
+    menu_items=None,
+)
+
 # set the title
 st.title("Gemini Chat-Bot")
 
